@@ -1,5 +1,4 @@
 #WEB_SCRAPER
-# Books to Scrape - Philosophy Category
 
 ## Objective
 The primary objective of this project is to demonstrate a simple web scraping application that extracts book details (title, price, and availability) from the "Philosophy" category of the "Books to Scrape" website. The extracted data is then saved to a CSV file for further use or analysis.
